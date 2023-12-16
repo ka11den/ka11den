@@ -144,13 +144,13 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#ka11den-stack" >
-        <img src="https://static-00.iconduck.com/assets.00/vue-icon-2048x1766-ntogpmti.png" width="36" height="36" alt="Next JS" />
+        <img src="https://brandeps.com/icon-download/V/Vue-icon-vector-02.svg" width="36" height="36" alt="Next JS" />
       </a>
       <br>Vue JS
     </td>
     <td align="center" width="110" height="90">
       <a href="#ka11den-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" width="36" height="36" alt="Next JS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" width="36" height="36" alt="Next JS" />
       </a>
       <br>Pinia
     </td>
