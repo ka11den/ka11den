@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="img/gif.gif" alt="gif"/>
+</p>
+
 <h1 align="center">Hello there, i'm Ruslan :wave: </h1>
 
 <br>
@@ -199,7 +203,7 @@
     </td>
    <td align="center" width="110" height="90">
       <a href="#ka11den-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
