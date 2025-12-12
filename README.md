@@ -7,8 +7,7 @@
 <br>
 - I started programming at the age of 11. I started with Developstudio, after a year I switched to computer games, then created my first website and that's how I moved into web development. <br>
 - I have commercial experience as a freelance web developer since 2020 <br>
-- My main programming languages are TypeScript, JavaScript. Also, they use popular frameworks: ReactJS, NextJS, VueJS, etc. <br>
-- I am studying in college for the 3rd year in the specialty "Developer of web and multimedia applications" <br>
+- My main programming languages are TypeScript, JavaScript. Also, they use popular frameworks: ReactJS, NextJS, VueJS, Nuxt, Nestjs, Node + express<br>
 <br>
 
 <h2 align="left" id="ka11den-stack">My stack</h2>
